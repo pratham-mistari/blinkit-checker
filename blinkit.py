@@ -25,14 +25,14 @@ HEADERS = {
     "x-system-appearance": "UNSPECIFIED",
     "x-accessibility-voice-over-enabled": "0",
     "accept": "application/json",
-    "http_session_token": "203ad795-9ec9-e787-9f68-dffc0b539213",
+    "http_session_token": "be46e6fc-263a-4f8b-d55d-f1ce4f34dc01",
     "role": "OD_CAPTAIN",
-    "session-token": "203ad795-9ec9-e787-9f68-dffc0b539213",
+    "session-token": "be46e6fc-263a-4f8b-d55d-f1ce4f34dc01",
     "x-lat": "22.5588983",
     "employeeid": "GCEBOD17495500430",
     "site-id": "6120",
     "userid": "934335",
-    "authorization": "Bearer eyJraWQiOiJ3eTEybU9NR3EwcXdHcm9HaysyVURPV2RuMHZiaXZXVkJHa0g3S3dXM1NrPSIsImFsZyI6IlJTMjU2In0.eyJlbXBsb3llZU5hbWUiOiJQcmF0aGFtZXNoIFNoYXJhZCBNaXN0YXJpIiwic3ViIjoiYzM0YmM0YTYtODAzYS00NzliLTgyMmQtODA2ZmQ2MDkxYWFlIiwicm9sZXMiOiJ7XCJTVE9SRU9QU1wiOntcImFjdGl2ZV9yb2xlXCI6bnVsbCxcImFsbG93ZWRfcm9sZXNcIjpcIlBJQ0tFUlwifX0iLCJpc3MiOiJodHRwczovL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vYXAtc291dGhlYXN0LTFfTUZwSU1xd09XIiwicGhvbmVfbnVtYmVyX3ZlcmlmaWVkIjp0cnVlLCJlbXBsb3llZUlkIjoiR0NFQk9EMTc0OTU1MDA0MzAiLCJjb2duaXRvOnVzZXJuYW1lIjoiYzM0YmM0YTYtODAzYS00NzliLTgyMmQtODA2ZmQ2MDkxYWFlIiwiYWN0aXZlX3NpdGVfaWQiOiI2MTIwIiwiYXVkIjoiMXJvZzZwZXRhOG4zbjY5dHA4ODZkbWZlaWUiLCJldmVudF9pZCI6IjJjYjIzZDQwLTk4ZGUtNDgxZi1iZWVkLTdhZmYxZTM2ZmEzNiIsInRva2VuX3VzZSI6ImlkIiwiZW1wbG95ZWVfaWQiOiJHQ0VCT0QxNzQ5NTUwMDQzMCIsImF1dGhfdGltZSI6MTc4MjMwNTA5MCwibmFtZSI6IlByYXRoYW1lc2ggU2hhcmFkIE1pc3RhcmkiLCJzaXRlSWQiOiI2MTIwIiwicGhvbmVfbnVtYmVyIjoiKzkxODgzMDY1NDIwNiIsInVzZXJUeXBlIjoiQ0FQVEFJTl9PRCIsImRlc2lnbmF0aW9uIjoiQ0FQVEFJTl9PRCIsImV4cCI6MTc4MjM5MTQ5MCwiaWF0IjoxNzgyMzA1MDkwLCJzdGF0dXMiOiJBQ1RJVkUifQ.woOmyo0lyOmRdi80Yh76xoJZemeDD8zLVxNjapjl6SIKeZrXW6MPPx5m1hmJyxGJMoX9DeJWTIJqQ9SHKclmAlDmUEOUPlh8k5oVqQ-zQ_sAfOQ5_hxs1hgja3BLAdJDUMCh-XNdMDFB95xC5UzNFWNNnip2d8A1Br6tiSjo7iEyIEaoJ8VoGoPbVKyutP0kmh6qocFixw2LhyfOS17SvjwVvOhS-5KMnziDq-oO7pDx9zIE-IUGa7FqY86JmT-iHmKOCehd3T56p2HQZegDrfmxTY7scdR6rCGjK2mWUjnm4kSMpIvusg6idv2uPpn03CMvUOLpfyW2Zjlym31K3g",
+    "authorization": "Bearer eyJraWQiOiJ3eTEybU9NR3EwcXdHcm9HaysyVURPV2RuMHZiaXZXVkJHa0g3S3dXM1NrPSIsImFsZyI6IlJTMjU2In0.eyJlbXBsb3llZU5hbWUiOiJQcmF0aGFtZXNoIFNoYXJhZCBNaXN0YXJpIiwic3ViIjoiYzM0YmM0YTYtODAzYS00NzliLTgyMmQtODA2ZmQ2MDkxYWFlIiwicm9sZXMiOiJ7XCJTVE9SRU9QU1wiOntcImFjdGl2ZV9yb2xlXCI6bnVsbCxcImFsbG93ZWRfcm9sZXNcIjpcIlBJQ0tFUlwifX0iLCJpc3MiOiJodHRwczovL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vYXAtc291dGhlYXN0LTFfTUZwSU1xd09XIiwicGhvbmVfbnVtYmVyX3ZlcmlmaWVkIjp0cnVlLCJlbXBsb3llZUlkIjoiR0NFQk9EMTc0OTU1MDA0MzAiLCJjb2duaXRvOnVzZXJuYW1lIjoiYzM0YmM0YTYtODAzYS00NzliLTgyMmQtODA2ZmQ2MDkxYWFlIiwiYWN0aXZlX3NpdGVfaWQiOiI2MTIwIiwiYXVkIjoiMXJvZzZwZXRhOG4zbjY5dHA4ODZkbWZlaWUiLCJldmVudF9pZCI6IjRjY2ZkZGI0LTBkYWQtNDZkMy04Zjg0LWFiYmVjNTA3YWFmMSIsInRva2VuX3VzZSI6ImlkIiwiZW1wbG95ZWVfaWQiOiJHQ0VCT0QxNzQ5NTUwMDQzMCIsImF1dGhfdGltZSI6MTc4MjI5MDc5NiwibmFtZSI6IlByYXRoYW1lc2ggU2hhcmFkIE1pc3RhcmkiLCJzaXRlSWQiOiI2MTIwIiwicGhvbmVfbnVtYmVyIjoiKzkxODgzMDY1NDIwNiIsInVzZXJUeXBlIjoiQ0FQVEFJTl9PRCIsImRlc2lnbmF0aW9uIjoiQ0FQVEFJTl9PRCIsImV4cCI6MTc4MjM3NzE5NiwiaWF0IjoxNzgyMjkwNzk2LCJzdGF0dXMiOiJBQ1RJVkUifQ.vVDTSLf7KglFFuE5-xyBC7yBt-LaMiwNXMFLihmVE_amlxuNMxJB4nGSA-9QriiVU211BUjnpIWRv7i_hrJJJlmakaydj6pHKVPBcW4Gu_BW0Qt5kJZ0Y2-0itIuv7L0ener5v5q5T5xpAylVhgsKY2cDKyoN1Mlx8Nc5hTlqF3EjExHUQtHpBP8y_OeL-WRriM_WIhP2GbHupCQj5WrnoAUTI_4b2cRp1JFVy8E69V2J9HUd07b0rscStT7HXcLeKprhisqAnf5PMeOKMoSK_-B0py3-MjDWuBzBQdnsotcU3f9lFUdDIC_bRAsTAUqAmj4KXBdA_JDQ_Ev-CAV2Q",
     "phonenumber": "8830654206",
     "x-app-locale": "en",
     "site_id": "6120",
@@ -42,7 +42,6 @@ HEADERS = {
     "long": "72.97235",
     "user-agent": "com.blinkitstoreops/161404 (Linux; U; Android 14; en; RMX3561; Build/UKQ1.230924.001; Cronet/149.0.7827.22)",
     "accept-encoding": "identity",
-    "cookie": "__cf_bm=dZnDirsbIqw3NAc90Pm96TKS3UrxFIlvXOln41RCCTc-1782308226.0736334-1.0.1.1-RR0qSYGqOFe60l2pr5OuS8kz7eUkQW37FtepeamOXz3z58uHOxSNZ_iEt2MaVQsaeeNCk.JGPiUj8zUEiDmz9cRVOREkhoMXxIqmNc3AeBQIPoqSKCHKKSO2nL0xcZko",
 }
 
 BODY = {"location_info": {}}
@@ -84,9 +83,6 @@ def check_token_expiry():
 # ─── SLOT CHECK ───────────────────────────────────────────
 def check_slots():
     try:
-        PROXIES = {
-                    "http": "http://127.0.0.1:8080",
-                    "https": "http://127.0.0.1:8080",}
         resp = requests.post(URL, headers=HEADERS, json=BODY, timeout=15)
         now = datetime.now().strftime("%H:%M:%S")
 
