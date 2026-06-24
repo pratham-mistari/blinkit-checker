@@ -87,7 +87,7 @@ def check_slots():
         PROXIES = {
                     "http": "http://127.0.0.1:8080",
                     "https": "http://127.0.0.1:8080",}
-        resp = requests.post(URL, headers=HEADERS, json=BODY, timeout=15, proxies=PROXIES, verify=False)
+        resp = requests.post(URL, headers=HEADERS, json=BODY, timeout=15)
         now = datetime.now().strftime("%H:%M:%S")
 
         if resp.status_code == 401:
