@@ -121,6 +121,17 @@ def check_slots():
     except Exception as e:
         print(f"[{datetime.now().strftime('%H:%M:%S')}] Error: {e}")
 
+import signal
+import sys
+
+def on_exit(sig, frame):
+    send_telegram("🔴 Blinkit slot checker BAND ho gaya!")
+    print("Script band ho gayi.")
+    sys.exit(0)
+
+signal.signal(signal.SIGINT, on_exit)
+signal.signal(signal.SIGTERM, on_exit)
+
 # ─── MAIN LOOP ────────────────────────────────────────────
 if __name__ == "__main__":
     check_token_expiry()
